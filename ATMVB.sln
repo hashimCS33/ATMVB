@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ATMVB", "ATMVB\ATMVB.vbproj", "{B73D978F-F080-4B03-B5B6-6BD7F0E6D24B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{7761A52B-A0CE-4539-9BCE-5483FCBED7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73D978F-F080-4B03-B5B6-6BD7F0E6D24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73D978F-F080-4B03-B5B6-6BD7F0E6D24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73D978F-F080-4B03-B5B6-6BD7F0E6D24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73D978F-F080-4B03-B5B6-6BD7F0E6D24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7761A52B-A0CE-4539-9BCE-5483FCBED7EB}.Debug|Any CPU.ActiveCfg = Debug
+		{7761A52B-A0CE-4539-9BCE-5483FCBED7EB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
